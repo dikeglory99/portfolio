@@ -1,0 +1,173 @@
+
+.username{
+    color: purple;
+    font-weight: bold;
+    font-size: 20px;
+}
+.head-line{
+    display: flex;
+    list-style: none;
+}
+.head-line li{
+    margin-right: 200px;
+}
+nav ul li:hover{
+    color: red;
+    cursor: pointer;
+}
+.username:hover{
+    color: green;
+    cursor: pointer;
+}
+
+.box-one{
+    border: none;
+    width: 1100px;
+    height: 350px;
+    background-color: rgb(252, 252, 252);
+    margin-left: 50px;
+    display: flex;
+}
+.box-three img{
+    width: 300px;
+    padding: 40px;
+}
+.box-two{
+    padding: 50px 50px;
+    margin-right: 70px;
+}
+.black-text{
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+.blue-text{
+    color: blue;
+    font-size: 40px;
+    font-weight: bold;
+}
+.grey-text{
+    color: grey;
+    font-size: 20px;
+}
+
+.contact-button{
+    border: none;
+    padding: 5px 20px;
+    background-color: white;
+    color: black;
+    margin-right: 30px;
+    border-radius: 5px;
+}
+.contact-button:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+.Project-button{
+    background-color: blue;
+    color: white;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 5px; 
+}
+.Project-button:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+
+.row{
+    display: flex;
+    list-style: none;
+}
+.row li{
+    margin-right: 270px;
+    font-weight: bold;
+    font-size: 50px;
+}
+.row-two{
+    display: flex;
+    list-style: none;
+    color: grey;
+}
+.row-two li{
+    font-size: 9px;
+    margin-right: 250px;
+}
+
+ 
+.box-four{
+    width: 1100px;
+    height: 250px;
+    background-color: rgb(1, 1, 32);
+    padding: 50px 50px;
+    display: flex;
+}
+.left-contanier{
+    margin-right: 200px;
+}
+
+.text-two image{
+    display: flex;
+}
+.small-box{
+    width: 250px;
+    height: 30px;
+    background-color: blue;
+    border-radius: 10px;
+}
+.text-one{
+    color: white;
+    font-size: 40px;
+}
+.text-two{
+    color: white;
+    font-size: 20px;
+}
+.skills-text{
+    color: blue;
+    font-weight: bold;
+    font-size: 40px;
+    margin-left: 20px;
+}
+.skill-box{
+    display: flex;
+}
+
+.skills li{
+    list-style: none;
+    margin-right: 200px;
+    padding: 15px;
+}
+.last-box{
+    width: 1200px;
+    height: 500px;
+    background-color: blue;
+    display: flex;
+    color: white;
+    font-size: 25px;
+    padding: 20px 20px;
+}
+.last-left{
+    margin-right: 100px;
+}
+.last-right{
+    padding: 20px 20px;
+}
+
+.name-box{
+    padding: 10px 200px;
+}
+.submit-button{
+    background-color: black;
+    color: white;
+    padding: 10px 260px;
+}
+.submit-button:hover{
+    cursor: pointer;
+    background-color: red;
+    color: white;
+}
+
+
